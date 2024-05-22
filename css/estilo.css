@@ -67,6 +67,7 @@ footer{
 }
 .paginas center{
     text-align: center;
+    box-sizing: border-box;
 }
 formulario{
     margin: 100px;
